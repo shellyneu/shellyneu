@@ -1,5 +1,15 @@
 # 💫 About Me:
-<h2 align="center">Hi, I'm Shellyn! 🌻</h2> <p align="center"> 🚀 Curious coder | 🎓 Informatics Student <br> 🎨 Exploring the frontend world with React & TypeScript <br> 🌱 Always learning, building, and growing </p><br><br>⭐ About Me:<br>💻 Passionate about clean UI & responsive design<br><br>📚 Currently learning: React, TypeScript, and frontend architecture<br><br>🧩 I love figuring things out and turning ideas into real products
+<h2 align="center">Hi, I'm Shellyn! 🌻</h2>
+<p align="center">
+  🚀 A curious coder | 🎓 Informatics Student <br>
+  🎨 Exploring the frontend world with React & TypeScript <br>
+  🌱 Always learning, building, and growing
+</p>
+
+## ⭐ A Little More About Me:
+- 💻 Passionate about clean UI and responsive web design  
+- 📚 Currently learning: **React**, **TypeScript**, and **frontend architecture**  
+- 🧩 I enjoy solving problems and turning ideas into real, usable products  
 
 
 ## 🌐 Socials:
